@@ -8,7 +8,7 @@ setup(
     description='A test python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/BillMills/python-package-example',
+    url='https://github.com/Talioner/python-mc-package',
     author='Kacper Tokarczyk',
     author_email='226021@student.pwr.edu.pl'
 )
